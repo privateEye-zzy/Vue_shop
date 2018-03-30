@@ -1,0 +1,46 @@
+{
+	"translation":[
+		{"id":"4", "type":"", "title":"推荐商品", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+		{"id":"4", "type":"", "title":"推荐商品", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+		{"id":"4", "type":"", "title":"推荐商品", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+		{"id":"4", "type":"", "title":"推荐商品", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""}
+	],
+	"classify":{
+		"good1":[
+			{"id":"1", "type":"火热", "title":"商品1", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"2", "type":"新品", "title":"商品1", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"3", "type":"新品", "title":"商品1", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"4", "type":"", "title":"商品1", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"5", "type":"", "title":"商品1", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"6", "type":"", "title":"商品1", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"7", "type":"", "title":"商品1", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"8", "type":"", "title":"商品1", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""}
+		],
+		"good2":[
+			{"id":"9", "type":"火热", "title":"商品2", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"10", "type":"火热", "title":"商品2", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"11", "type":"新品", "title":"商品2", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"12", "type":"", "title":"商品2", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"13", "type":"", "title":"商品2", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"14", "type":"", "title":"商品2", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"15", "type":"", "title":"商品2", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"16", "type":"", "title":"商品2", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""}
+		],
+		"good3":[
+			{"id":"17", "type":"新品", "title":"商品3", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"18", "type":"新品", "title":"商品3", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"19", "type":"打折", "title":"商品3", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"20", "type":"", "title":"商品3", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"21", "type":"", "title":"商品3", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"22", "type":"", "title":"商品3", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"23", "type":"", "title":"商品3", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""},
+			{"id":"24", "type":"", "title":"商品3", "subTitle": "商品属性", "price": "1000", "desc":"这是商品描述...", "img": ""}
+		]
+	},
+	"vedioList":[
+		{"id":"25", "src":"https://v.mifile.cn/b2c-mimall-media/079803c78170eaf692d936eba3978cc1.mp4", "title":"视频1", "subTitle": "视频属性", "img": ""},
+		{"id":"26", "src":"https://v.mifile.cn/b2c-mimall-media/079803c78170eaf692d936eba3978cc1.mp4", "title":"视频2", "subTitle": "视频属性", "img": ""},
+		{"id":"24", "src":"https://v.mifile.cn/b2c-mimall-media/079803c78170eaf692d936eba3978cc1.mp4", "title":"视频3", "subTitle": "视频属性", "img": ""},
+		{"id":"24", "src":"https://v.mifile.cn/b2c-mimall-media/079803c78170eaf692d936eba3978cc1.mp4", "title":"视频4", "subTitle": "视频属性", "img": ""}
+	]
+}

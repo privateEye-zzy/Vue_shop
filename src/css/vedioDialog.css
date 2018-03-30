@@ -1,0 +1,5 @@
+.vedio-mask{z-index:999;background:rgba(0,0,0,.5);position:fixed;top:0;left:0;right:0;bottom:0;}
+.vedio-diabody{z-index:2000;position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);border-radius:5px}
+.vedio-vd{width:880px;height:100%;}
+.vedio-close{border-radius:100%;transform:rotate(45deg);transition:all .2s linear;}
+.vedio-close:hover{background:#e53935;color:#fff;}
